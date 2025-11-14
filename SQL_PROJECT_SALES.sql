@@ -16,15 +16,6 @@ CREATE TABLE retailsales (            #Table creation
     total_sale FLOAT
 );
 
-
-# we have a CSV file that contains  all the table data , steps to import that file
-# step 1-->from left bar in your desktop right click on table under tour database name.
-# step 2-->select table data import wizard
-# step 3-->paste the address of your file and click next
-# step 4--> use exixting table and click next and finish
-
-
-
 select * from retailsales;           # checking structure of table
 
 
