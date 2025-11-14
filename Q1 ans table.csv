@@ -1,7 +1,3 @@
-Write a SQL query to retrieve all columns for sales made on '2022-11-05:
-
-
-
 transactions_id,sale_date,sale_time,customer_id,gender,age,category,quantity,price_per_unit,cogs,total_sale
 180,2022-11-05,10:47:00,117,Male,41,Clothing,3,300,129,900
 214,2022-11-05,16:31:00,53,Male,20,Beauty,2,30,8.1,60
